@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Show do Milhão - Play</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/game.css">
+</head>
+
+<body onload="cronometro()">
+  <div class="container">
+    <div id="game" class="justify-center flex-column">
+      <img class="logo-pages" src="img/logo-show-milhao.svg" alt="logomarca">
+      <div id="hud">
+        <div id="hud-item">
+          <p class="hud-prefix">
+            Pergunta
+          </p>
+          <h1 class="hud-main-text" id="questionCounter"></h1>
+        </div>
+        <div id="hud-item" class="">
+          <p class="hud-prefix rodada">
+            Rodada
+          </p>
+          <h1 class="hud-main-text" id="round"></h1>
+          <p id="roundDesc"></p>
+        </div>
+        <div id="hud-item">
+          <p class="hud-prefix">
+            R$ Atual
+          </p>
+          <h1 class="hud-main-text" id="score">
+            0
+          </h1>
+        </div>
+      </div>
+
+      <h2 id="question"> </h2>
+      <div class="choice-container">
+        <p class="choice-prefix">1</p>
+        <p class="choice-text" data-number="1"></p>
+      </div>
+      <div class="choice-container">
+        <p class="choice-prefix">2</p>
+        <p class="choice-text" data-number="2"></p>
+      </div>
+      <div class="choice-container">
+        <p class="choice-prefix">3</p>
+        <p class="choice-text" data-number="3"></p>
+      </div>
+      <div class="choice-container">
+        <p class="choice-prefix">4</p>
+        <p class="choice-text" data-number="4"></p>
+      </div>
+      <div class="btnsFooter">
+        <a href="#" class="btnParar">Parar</a>
+        <div id="tempo"><span></span></div>
+        <a href="#" class="btnSair">Sair</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/data.json"></script>
+  <script src="js/game.js"></script>
+</body>
+
+</html>

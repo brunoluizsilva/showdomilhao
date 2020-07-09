@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Show do Milhão - Fim do Jogo!</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="container">
+    <div id="end" class="flex-center flex-column">
+      <img class="logo-pages" src="img/logo-show-milhao.svg" alt="logomarca">
+
+      <p class="final-text"></p>
+      <h1 id="finalScore"></h1>
+      <form>
+        <input type="text" name="user" id="user" placeholder="jogador" autocomplete="off">
+        <button type="submit" class="btn" id="saveScoreBtn" onclick="saveHighScore(event)" disabled>Salvar</button>
+      </form>
+      <a class="btn" href="game.html">Jogar novamente</a>
+      <a class="btn" href="index.html">Retornar ao menu</a>
+    </div>
+  </div>
+  <script src="js/end.js"></script>
+</body>
+
+</html>

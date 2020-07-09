@@ -1,0 +1,146 @@
+[
+  {
+    "question": "De quem é a famosa frase “Penso, logo existo?",
+    "choice1": "Platão",
+    "choice2": "Galileu Galilei",
+    "choice3": "Descartes",
+    "choice4": "Sócrates",
+    "answer": 3
+  },
+  {
+    "question": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+    "choice1": "Jânio Quadros",
+    "choice2": "João Goulart",
+    "choice3": "Getúlio Vargas",
+    "choice4": "João Figueiredo",
+    "answer": 2
+  },
+  {
+    "question": "De onde é a invenção do chuveiro elétrico?",
+    "choice1": "Brasil",
+    "choice2": "Inglaterra",
+    "choice3": "França",
+    "choice4": "Itália",
+    "answer": 1
+  },
+  {
+    "question": "Quantas casas decimais tem o número pi?",
+    "choice1": "Duas",
+    "choice2": "Centenas",
+    "choice3": "Milhares",
+    "choice4": "Infinitas",
+    "answer": 4
+  },
+  {
+    "question": "Quais as duas datas que são comemoradas em novembro?",
+    "choice1": "Independência do Brasil e Dia da Bandeira",
+    "choice2": "Proclamação da República e Dia Nacional da Consciência Negra",
+    "choice3": "Dia do Médico e Dia de São Lucas",
+    "choice4": "Dia de Finados e Dia Nacional do Livro",
+    "answer": 2
+  },
+  {
+    "question": "Jim Morrison era vocalista de qual grupo?",
+    "choice1": "Pink Floyd",
+    "choice2": "Nirvana",
+    "choice3": "The Doors",
+    "choice4": "The Police",
+    "answer": 3
+  },
+  {
+    "question": "Em que cidade ocorreu a Eco-92, a Conferência das Nações Unidas sobre ambiente e desenvolvimento?",
+    "choice1": "Buenos Aires",
+    "choice2": "Rio de Janeiro",
+    "choice3": "Montevidéu",
+    "choice4": "Assunção",
+    "answer": 2
+  },
+  {
+    "question": "Quem viveu, segundo a bíblia, 969 anos?",
+    "choice1": "Benjamim",
+    "choice2": "Jesus Cristo",
+    "choice3": "Abel",
+    "choice4": "Matusalém",
+    "answer": 4
+  },
+  {
+    "question": "Qual a velocidade da luz?",
+    "choice1": "300 000 000 metros por segundo (m/s)",
+    "choice2": "150 000 000 metros por segundo (m/s)",
+    "choice3": "199 792 458 metros por segundo (m/s)",
+    "choice4": "299 792 458 metros por segundo (m/s)",
+    "answer": 4
+  },
+  {
+    "question": "Qual a montanha mais alta do Brasil?",
+    "choice1": "Pico da Neblina",
+    "choice2": "Pico Paraná",
+    "choice3": "Pico da Bandeira",
+    "choice4": "Pico Maior de Friburgo",
+    "answer": 1
+  },
+  {
+    "question": "Quem é o autor de “O Príncipe?",
+    "choice1": "Maquiavel",
+    "choice2": "Antoine de Saint-Exupéry",
+    "choice3": "Thomas Hobbes",
+    "choice4": "Montesquieu",
+    "answer": 1
+  },
+  {
+    "question": "Quais destas construções famosas ficam nos Estados Unidos?",
+    "choice1": "Estátua da Liberdade, Big Ben e The High Line",
+    "choice2": "Angkor Wat, Taj Mahal e Skywalk no Grand Canyon",
+    "choice3": "Estátua da Liberdade, Golden Gate Bridge e Empire State Building",
+    "choice4": "30 St Mary Axe, The High Line e Residencial 148 Spruce Street",
+    "answer": 3
+  },
+  {
+    "question": "Qual destes países é transcontinental?",
+    "choice1": "Filipinas",
+    "choice2": "Rússia",
+    "choice3": "Groenlândia",
+    "choice4": "Istambul",
+    "answer": 2
+  },
+  {
+    "question": "Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?",
+    "choice1": "Filosofia",
+    "choice2": "Biologia",
+    "choice3": "Astronomia",
+    "choice4": "Mitologia",
+    "answer": 4
+  },
+  {
+    "question": "Quais os planetas do sistema solar?",
+    "choice1": "Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio",
+    "choice2": "Terra, Vênus, Saturno, Júpiter, Marte, Netuno, Mercúrio",
+    "choice3": "Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Sol, Terra, Urano, Vênus",
+    "choice4": "Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio",
+    "answer": 1
+  },
+  {
+    "question": "Que líder mundial ficou conhecida como “Dama de Ferro”?",
+    "choice1": "Dilma Rousseff",
+    "choice2": "Angela Merkel",
+    "choice3": "Margaret Thatcher",
+    "choice4": "Hillary Clinton",
+    "answer": 3
+  },
+  {
+    "question": "Qual o nome do cientista que descobriu o processo de pasteurização e a vacina contra a raiva?",
+    "choice1": "Marie Curie",
+    "choice2": "Blaise Pascal",
+    "choice3": "Charles Darwin",
+    "choice4": "Louis Pasteur",
+    "answer": 4
+  },
+  {
+    "question": "Quem pintou o teto da capela sistina?",
+    "choice1": "Michelangelo",
+    "choice2": "Leonardo da Vinci",
+    "choice3": "Sandro Botticelli",
+    "choice4": "Donatello",
+    "answer": 1
+  }
+]
