@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://ik.imagekit.io/brudev/logo-show-milhao_CFPB42nok.svg">
+<img src="https://ik.imagekit.io/brudev/logo-show-milhao-readme_QAg-MA6hN.svg">
 
 <img src="img/apresentacao.gif">
 </h1>
@@ -40,6 +40,7 @@ O projeto faz parte do desafio da empresa **Jovens Gênios** para uma vaga de es
 ## 👨🏻‍🏫 Tutorial
 
 [![Show do Milhão Família Aguiar](http://img.youtube.com/vi/sftLy_dcq-Q/0.jpg)](http://www.youtube.com/watch?v=sftLy_dcq-Q "Tutorial - Show do Milhão Família Aguiar")
+
 
 
 ---
