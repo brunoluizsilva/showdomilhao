@@ -8,7 +8,7 @@
 - [Sobre](#-sobre)
 - [Diferenças do jogo](#-Diferenças-do-jogo)
 - [Como baixar o projeto](#-Como-baixar-o-projeto-e-jogar)
-- [Tutorial](#Tutorial)
+- [Tutorial](#-Tutorial)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 
 ---
