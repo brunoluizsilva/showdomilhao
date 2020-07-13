@@ -6,7 +6,7 @@
 
 ## Índice
 - [Sobre](#-sobre)
-- [Diferenças do jogo](#-Diferenças-do-jogo-original)
+- [Diferenças do jogo](#-Diferenças-do-jogo)
 - [Como baixar o projeto](#-Como-baixar-o-projeto-e-jogar)
 - [Tutorial](#Tutorial)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
@@ -28,7 +28,7 @@ O projeto faz parte do desafio da empresa **Jovens Gênios** para uma vaga de es
 - sem placas de ajuda da plateia
 ---
 
-## 💼 Como baixar o projeto
+## 💼 Como baixar o projeto e jogar
 ```bash
   # clonar o repositório
   $ git clone https://github.com/brunoluizsilva/showdomilhao
